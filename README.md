@@ -7,7 +7,7 @@ A aplicação lista os repositórios do GitHub informados pelo usuário, com uma
 ### Libs utilizadas:
 
 - [Styled Components](https://styled-components.com/) - criar componentes estilizados permitindo encadear estilos e estilizar baseado em propriedades.
-- [Axios] - para efetuar requisições à API do Github.
+- [Axios](https://github.com/axios/axios)- para efetuar requisições à API do Github.
 
 ---
 
